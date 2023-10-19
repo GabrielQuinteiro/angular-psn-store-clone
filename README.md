@@ -21,4 +21,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-[preview]: https://github.com/GabrielQuinteiro/angular-psn-store-clone/src/assets/Screenshot_psn-store.png
+[preview]: src/assets/Screenshot_psn-store.png
